@@ -18,7 +18,7 @@ Le projet est réalisé en utilisant **HTML5, CSS3** et **GitHub** pour le trava
 
 ---
 
-## Objectifs pédagogiques
+## Cette projet à pour but de:
 - Créer un compte GitHub 
 - Créer un projet avec GitHub 
 - Créer une branche pour chaque membre d'equipe 
