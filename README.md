@@ -1,6 +1,4 @@
-# Projet-Groupe-13-Emit-Da2i-groupe-A
-
-# Projet Site Web du présentations EMIT
+# Projet d'équipe Da2i L1 groupe A(Groupe 13)
 
 ## Description du projet
 Ce projet consiste à concevoir et déployer un **site web de présentation de l’EMIT (École de Management et d’Innovation Technologique)** dans le cadre d’un **travail en équipe**.
