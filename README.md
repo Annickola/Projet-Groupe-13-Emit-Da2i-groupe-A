@@ -3,7 +3,7 @@
 # Projet Site Web du présentations EMIT
 
 ## Description du projet
-Ce projet consiste à concevoir et déployer un **site web statique de présentation de l’EMIT (École de Management et d’Innovation Technologique)** dans le cadre d’un **travail en équipe**.
+Ce projet consiste à concevoir et déployer un **site web de présentation de l’EMIT (École de Management et d’Innovation Technologique)** dans le cadre d’un **travail en équipe**.
 
 Le site a pour objectif de présenter :
 - l’école EMIT
@@ -19,11 +19,11 @@ Le projet est réalisé en utilisant **HTML5, CSS3** et **GitHub** pour le trava
 ---
 
 ## Objectifs pédagogiques
-- Apprendre à travailler en **équipe avec Git et GitHub**
-- Utiliser les **branches Git** pour le travail collaboratif
-- Structurer un **site web professionnel**
-- Comprendre le processus de **merge (Pull Request)**
-- Déployer un site web statique
+- Créer un compte GitHub 
+- Créer un projet avec GitHub 
+- Créer une branche pour chaque membre d'equipe 
+- Chaque membre de l'équipe doit ajouter un code html dans sa branche et l'intègre d'un projet principal 
+- Enfin, déployer un site web avec GitHub 
 
 ---
 
