@@ -1,9 +1,4 @@
-| 7  | Membre| `vie-etudiante-page` | `vie -etudiante.html` |
-| 8  | Membre| `partenariats-page` | `partenariats.html` |
-| 9  | Membre | `projet-page` | `projet-equipe.html` |
-| 10 | Membre | `contact-page` | `contact.html` |
-
-Chaque membre travaille **uniquement sur # Projet d'équipe Da2i L1 groupe A(Groupe 13)
+# Projet d'équipe Da2i L1 groupe A(Groupe 13)
 
 ## Description du projet
 Ce projet consiste à concevoir et déployer un **site web de présentation de l’EMIT (École de Management et d’Innovation Technologique)** dans le cadre d’un **travail en équipe**.
@@ -62,4 +57,3 @@ Chaque membre travaille **uniquement sur sa branche** et sur **un seul fichier H
 
 ## Structure du projet
 
- b
