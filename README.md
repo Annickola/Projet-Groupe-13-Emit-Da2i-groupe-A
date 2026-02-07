@@ -1,7 +1,4 @@
-| 9  | Membre | `projet-page` | `projet-equipe.html` |
-| 10 | Membre | `contact-page` | `contact.html` |
-
-Chaque membre travaille **uniquement sur sa branch# Projet d'équipe Da2i L1 groupe A(Groupe 13)
+# Projet d'équipe Da2i L1 groupe A(Groupe 13)
 
 ## Description du projet
 Ce projet consiste à concevoir et déployer un **site web de présentation de l’EMIT (École de Management et d’Innovation Technologique)** dans le cadre d’un **travail en équipe**.
