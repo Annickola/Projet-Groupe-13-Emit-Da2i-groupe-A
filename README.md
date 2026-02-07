@@ -1,4 +1,7 @@
-# Projet d'équipe Da2i L1 groupe A(Groupe 13)
+| 9  | Membre | `projet-page` | `projet-equipe.html` |
+| 10 | Membre | `contact-page` | `contact.html` |
+
+Chaque membre travaille **uniquement sur sa branch# Projet d'équipe Da2i L1 groupe A(Groupe 13)
 
 ## Description du projet
 Ce projet consiste à concevoir et déployer un **site web de présentation de l’EMIT (École de Management et d’Innovation Technologique)** dans le cadre d’un **travail en équipe**.
@@ -40,16 +43,16 @@ Elle est rattachée à l’Université de Fianarantsoa et forme des étudiants d
 
 | N° | Rôle | Branche Git | Fichier HTML |
 |----|------|-------------|--------------|
-| 1  | Chef de projet |`main`|`index.html` |
-| 2  | Membre|about-page` | `about.html` |
-| 3  | Membre|historique-page`| `historique.html` |
-| 4  | Membre| `formations-page` | `formations.html` |
-| 5  | Membre| `admission-page` | `admission.html` |
-| 6  | Membre| `campus-page` | `campus.html` |
-| 7  | Membre| `vie-etudiante-page` | `vie -etudiante.html` |
-| 8  | Membre| `partenariats-page` | `partenariats.html` |
-| 9  | Membre | `projet-page` | `projet-equipe.html` |
-| 10 | Membre | `contact-page` | `contact.html` |
+| 1  | Chef de projet (LANDY Jean Noel Annickola)| `main` | `index.html` |
+| 2  | Membre (RAFANOMEZANTSOA Sambaniaina Fandresena)| `Fandresena-about` | `about.html` |
+| 3  | Membre (ANDRIANASOLO Rackaks Sylvah)| `Rackaks-historique`| `historique.html` |
+| 4  | Membre (RAVONIARISOA Sitrikiniaina)| `Sitraka-formations` | `formations.html` |
+| 5  | Membre (RANDRIANANTENAINA Julien)| `Julien-admission` | `admission.html` |
+| 6  | Membre (RAHANTAVALISOANIRINA Justine)| `Valisoa-campus` | `campus.html` |
+| 7  | Membre (MAMISOA Mitia Adrianot)| `Mamisoa-vie-etudiante` | `vie-etudiante.html` |
+| 8  | Membre (RAKOTOZAFIMAHATRATRA Ny Anjara Manambatra)| `Anjara-partenariats` | `partenariats.html` |
+| 9  | Membre (HERIFINIAVANA Fy Jauze Marino)| `Fy-projet` | `projet-equipe.html` |
+| 10 | Membre (RAMISIARISON Heritiana)| `Heritiana-contact` | `contact.html` |
 
 Chaque membre travaille **uniquement sur sa branche** et sur **un seul fichier HTML**.
 
